@@ -1,3 +1,5 @@
-mkdir 
- ls 
- mv 
+#!/bin/sh
+
+echo "Hello world" ;
+pwd;
+
